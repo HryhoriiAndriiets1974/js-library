@@ -7,6 +7,7 @@ import SimpleLightbox from "./index.js";
 import Pagination from 'tui-pagination';
 import 'tui-pagination/dist/tui-pagination.min.css';
 
+const axios = require('axios');
 const lightbox = new SimpleLightbox('.gallery a', {
   captionsData: "alt",
   captionDelay: 1000,

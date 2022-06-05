@@ -1,4 +1,4 @@
-4879
+4880
 69E:\project\js-library\node_modules\svgo\plugins\removeStyleElement.js132989251801008461 0
 60E:\project\js-library\node_modules\combined-stream\Readme.md132989322195190254 0
 69E:\project\js-library\node_modules\sass\types\legacy\plugin_this.d.ts132989251809642475 0
@@ -53,7 +53,7 @@
 52E:\project\js-library\node_modules\has-flag\index.js132989251751597263 0
 91E:\project\js-library\node_modules\dom-serializer\node_modules\entities\lib\encode.d.ts.map132989251779051588 0
 74E:\project\js-library\node_modules\caniuse-lite\data\features\autofocus.js132989251796767967 0
-52E:\project\js-library\node_modules\@msgpackr-extract132989322196940253 1
+52E:\project\js-library\node_modules\@msgpackr-extract132989324585202814 1
 77E:\project\js-library\node_modules\@parcel\core\src\requests\DevDepRequest.js132989251801565041 0
 32E:\project\js-library\.gitignore132989249185198057 0
 111E:\project\js-library\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob132989251811916075 1
@@ -80,7 +80,7 @@
 104E:\project\js-library\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-fallback132989251811472873 1
 73E:\project\js-library\node_modules\notiflix\build\notiflix-confirm-aio.js132989319019749224 0
 48E:\project\js-library\node_modules\fastq\LICENSE132989251741586933 0
-26E:\project\js-library\dist132989319648943596 1
+26E:\project\js-library\dist132989329757358134 1
 31E:\project\js-library\.parcelrc132983270165458140 0
 49E:\project\js-library\node_modules\node-gyp-build132989251766366261 1
 43E:\project\js-library\node_modules\get-port132989251761327888 1
@@ -88,7 +88,7 @@
 61E:\project\js-library\node_modules\node-addon-api\except.gypi132989251755012151 0
 33E:\project\js-library\.prettierrc132983270165458140 0
 67E:\project\js-library\node_modules\type-fest\source\promisable.d.ts132989251789787104 0
-34E:\project\js-library\src\index.js132989322871230209 0
+34E:\project\js-library\src\index.js132989329754277064 0
 53E:\project\js-library\node_modules\callsites\index.js132989251752255623 0
 71E:\project\js-library\node_modules\caniuse-lite\data\features\stream.js132989251837472690 0
 78E:\project\js-library\node_modules\caniuse-lite\data\features\text-emphasis.js132989251838272807 0
@@ -129,7 +129,7 @@
 66E:\project\js-library\node_modules\caniuse-lite\data\regions\MQ.js132989251827140430 0
 51E:\project\js-library\node_modules\mdn-data\LICENSE132989251741526737 0
 47E:\project\js-library\node_modules\caniuse-lite132989251840216906 1
-31E:\project\js-library\README.md132989315298378829 0
+31E:\project\js-library\README.md132989331642411976 0
 44E:\project\js-library\node_modules\nth-check132989251785029382 1
 55E:\project\js-library\node_modules\escape-string-regexp132989251755028904 1
 77E:\project\js-library\node_modules\@parcel\utils\test\input\config\empty.toml132989251812215672 0
@@ -144,7 +144,7 @@
 104E:\project\js-library\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV2\files\embed\embed2132989251800796850 1
 34E:\project\js-library\README.uk.md132983270165458140 0
 42E:\project\js-library\node_modules\@parcel132989324585192800 1
-54E:\project\js-library\node_modules\combined-stream\lib132989322195260575 1
+54E:\project\js-library\node_modules\combined-stream\lib132989322195310241 1
 43E:\project\js-library\node_modules\svgo\lib132989251810936747 1
 25E:\project\js-library\src132989249885232565 1
 44E:\project\js-library\node_modules\callsites132989251761408221 1
@@ -155,19 +155,19 @@
 59E:\project\js-library\node_modules\terser\tools\terser.d.ts132989251804054715 0
 41E:\project\js-library\src\sass\index.scss132983270165614405 0
 32E:\project\js-library\src\images132989249884913300 1
-58E:\project\js-library\node_modules\supports-color\index.js132989251751071213 0
-60E:\project\js-library\node_modules\@parcel\transformer-babel132989251786250996 1
-36E:\project\js-library\src\index.html132989324120296538 0
 79E:\project\js-library\node_modules\caniuse-lite\data\features\css-namespaces.js132989251820373721 0
 66E:\project\js-library\node_modules\@parcel\source-map\package.json132989251785124995 0
 55E:\project\js-library\node_modules\@parcel\core\LICENSE132989251780491725 0
 52E:\project\js-library\node_modules\terser\lib\cli.js132989251786981658 0
+58E:\project\js-library\node_modules\supports-color\index.js132989251751071213 0
+60E:\project\js-library\node_modules\@parcel\transformer-babel132989251786250996 1
+36E:\project\js-library\src\index.html132989324120296538 0
 64E:\project\js-library\node_modules\css-select\lib\index.d.ts.map132989251784897467 0
 81E:\project\js-library\node_modules\caniuse-lite\data\features\speech-synthesis.js132989251837328633 0
 75E:\project\js-library\node_modules\utility-types\dist\functional-helpers.js132989251752599616 0
 59E:\project\js-library\node_modules\glob-parent\CHANGELOG.md132989251756674709 0
 70E:\project\js-library\node_modules\htmlparser2\lib\WritableStream.d.ts132989251783228731 0
-34E:\project\js-library\src\partials132989249885115462 1
+34E:\project\js-library\src\partials132989328770738212 1
 63E:\project\js-library\node_modules\fastq\.github\dependabot.yml132989251779701995 0
 61E:\project\js-library\node_modules\mdn-data\css\syntaxes.json132989251787441912 0
 54E:\project\js-library\node_modules\merge2\package.json132989251751353144 0
@@ -210,6 +210,16 @@
 66E:\project\js-library\node_modules\axios\lib\core\buildFullPath.js132989322195720246 0
 111E:\project\js-library\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope\pkg\package.json132989251809872577 0
 47E:\project\js-library\src\partials\example.html132983270165614405 0
+80E:\project\js-library\node_modules\@parcel\transformer-css\src\CSSTransformer.js132989251755205992 0
+69E:\project\js-library\node_modules\fast-glob\out\managers\patterns.js132989251784523252 0
+44E:\project\js-library\node_modules\svgo\dist132989251805109050 1
+76E:\project\js-library\node_modules\caniuse-lite\data\features\textcontent.js132989251838422032 0
+63E:\project\js-library\node_modules\nth-check\lib\esm\parse.d.ts132989251788023574 0
+103E:\project\js-library\node_modules\posthtml-include\node_modules\posthtml-parser\dist\chunk.2UQLUWPH.js132989251749584080 0
+66E:\project\js-library\node_modules\caniuse-lite\data\regions\MG.js132989251826842150 0
+109E:\project\js-library\node_modules\@parcel\package-manager\test\fixtures\has-a-not-yet-installed\package.json132989251795984976 0
+50E:\project\js-library\src\partials\pagination.html132989329011019527 0
+75E:\project\js-library\node_modules\@parcel\source-map\parcel_sourcemap_node132989251812057873 1
 46E:\project\js-library\node_modules\ansi-styles132989251761510260 1
 94E:\project\js-library\node_modules\posthtml-include\node_modules\posthtml-parser\dist\index.js132989251753442680 0
 64E:\project\js-library\node_modules\electron-to-chromium\index.js132989251765307430 0
@@ -390,7 +400,7 @@
 56E:\project\js-library\node_modules\@parcel\types\LICENSE132989251741854547 0
 71E:\project\js-library\node_modules\svgo\plugins\removeOffCanvasPaths.js132989251800680172 0
 76E:\project\js-library\node_modules\svgo\plugins\addAttributesToSVGElement.js132989251770807354 0
-49E:\project\js-library\dist\index.b07a87f3.css.map132989312607926744 0
+49E:\project\js-library\dist\index.b07a87f3.css.map132989329757118146 0
 88E:\project\js-library\node_modules\caniuse-lite\data\features\stricttransportsecurity.js132989251837559860 0
 40E:\project\js-library\node_modules\fastq132989251778104377 1
 80E:\project\js-library\node_modules\node-gyp-build-optional-packages\package.json132989251764809755 0
@@ -618,7 +628,7 @@
 61E:\project\js-library\node_modules\source-map-js\CHANGELOG.md132989251780057278 0
 75E:\project\js-library\node_modules\@parcel\graph\test\AdjacencyList.test.js132989251769243038 0
 80E:\project\js-library\node_modules\@swc\helpers\src\_async_generator_delegate.js132989251810690507 0
-48E:\project\js-library\dist\index.975ef6c8.js.map132989319648933591 0
+48E:\project\js-library\dist\index.975ef6c8.js.map132989329757348126 0
 84E:\project\js-library\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Doxyfile132989251769923850 0
 66E:\project\js-library\node_modules\@parcel\transformer-svg\LICENSE132989251741864997 0
 73E:\project\js-library\node_modules\@parcel\transformer-image\package.json132989251770723884 0
@@ -1077,11 +1087,11 @@
 68E:\project\js-library\node_modules\@swc\helpers\src\_create_super.js132989251813922420 0
 56E:\project\js-library\node_modules\mdn-data\css\index.js132989251753895220 0
 63E:\project\js-library\node_modules\postcss-value-parser\LICENSE132989251741345554 0
-83E:\project\js-library\node_modules\@babel\highlight\node_modules\color-name\LICENSE132989251757203804 0
-66E:\project\js-library\node_modules\svgo\plugins\convertPathData.js132989251785225849 0
-126E:\project\js-library\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\sub\a\index.js132989251796872290 0
 65E:\project\js-library\node_modules\type-fest\ts41\kebab-case.d.ts132989251784457850 0
 65E:\project\js-library\node_modules\@parcel\watcher\src\DirTree.cc132989251767288908 0
+83E:\project\js-library\node_modules\@babel\highlight\node_modules\color-name\LICENSE132989251757203804 0
+126E:\project\js-library\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\sub\a\index.js132989251796872290 0
+66E:\project\js-library\node_modules\svgo\plugins\convertPathData.js132989251785225849 0
 74E:\project\js-library\node_modules\type-fest\source\async-return-type.d.ts132989251761312691 0
 61E:\project\js-library\node_modules\sass\types\value\list.d.ts132989251808951466 0
 39E:\project\js-library\.github\workflows132989249883708812 1
@@ -1162,7 +1172,7 @@
 65E:\project\js-library\node_modules\type-fest\source\value-of.d.ts132989251795960045 0
 66E:\project\js-library\node_modules\caniuse-lite\data\regions\VG.js132989251839218809 0
 64E:\project\js-library\node_modules\modern-normalize\package.json132989251751453687 0
-54E:\project\js-library\node_modules\tui-pagination\dist132989324584632811 1
+54E:\project\js-library\node_modules\tui-pagination\dist132989324584832805 1
 80E:\project\js-library\node_modules\caniuse-lite\data\features\referrer-policy.js132989251836216092 0
 74E:\project\js-library\node_modules\svgo\plugins\cleanupEnableBackground.js132989251777294337 0
 61E:\project\js-library\node_modules\@lezer\lr\dist\decode.d.ts132989251775366359 0
@@ -1352,11 +1362,6 @@
 59E:\project\js-library\node_modules\nth-check\lib\index.d.ts132989251787536569 0
 67E:\project\js-library\node_modules\term-size\vendor\macos\.DS_Store132989251749873398 0
 44E:\project\js-library\node_modules\json5\lib132989251786089186 1
-80E:\project\js-library\node_modules\@parcel\transformer-css\src\CSSTransformer.js132989251755205992 0
-69E:\project\js-library\node_modules\fast-glob\out\managers\patterns.js132989251784523252 0
-44E:\project\js-library\node_modules\svgo\dist132989251805109050 1
-76E:\project\js-library\node_modules\caniuse-lite\data\features\textcontent.js132989251838422032 0
-63E:\project\js-library\node_modules\nth-check\lib\esm\parse.d.ts132989251788023574 0
 47E:\project\js-library\node_modules\svgo\plugins132989251803841399 1
 54E:\project\js-library\node_modules\ordered-binary\dist132989251748044696 1
 81E:\project\js-library\node_modules\abortcontroller-polyfill\src\abortableFetch.js132989251748742962 0
@@ -1592,7 +1597,6 @@
 93E:\project\js-library\node_modules\@parcel\runtime-service-worker\lib\ServiceWorkerRuntime.js132989251749008931 0
 64E:\project\js-library\node_modules\@swc\helpers\src\_decorate.js132989251814600876 0
 64E:\project\js-library\node_modules\sass\types\value\boolean.d.ts132989251801674145 0
-81E:\project\js-library\node_modules\css-select\lib\pseudo-selectors\index.d.ts.map132989251785318088 0
 62E:\project\js-library\node_modules\sass\types\value\index.d.ts132989251805314682 0
 66E:\project\js-library\node_modules\caniuse-lite\data\regions\GI.js132989251824097832 0
 60E:\project\js-library\node_modules\sass\types\value\map.d.ts132989251809033686 0
@@ -1744,8 +1748,6 @@
 77E:\project\js-library\node_modules\css-tree\lib\syntax\scope\atrulePrelude.js132989251775281778 0
 80E:\project\js-library\node_modules\posthtml-include\node_modules\posthtml-parser132989251764964462 1
 90E:\project\js-library\node_modules\posthtml-include\node_modules\posthtml-parser\readme.md132989251765334390 0
-103E:\project\js-library\node_modules\posthtml-include\node_modules\posthtml-parser\dist\chunk.2UQLUWPH.js132989251749584080 0
-66E:\project\js-library\node_modules\caniuse-lite\data\regions\MG.js132989251826842150 0
 107E:\project\js-library\node_modules\posthtml-include\node_modules\posthtml-parser\dist\location-tracker.d.ts132989251769923850 0
 105E:\project\js-library\node_modules\posthtml-include\node_modules\posthtml-parser\dist\location-tracker.js132989251760705825 0
 68E:\project\js-library\node_modules\posthtml-expressions\package.json132989251775596501 0
@@ -2023,7 +2025,7 @@
 85E:\project\js-library\node_modules\@parcel\transformer-react-refresh-wrap\lib\helpers132989251748850168 1
 62E:\project\js-library\node_modules\css-tree\lib\lexer\match.js132989251809687494 0
 58E:\project\js-library\node_modules\node-addon-api\index.js132989251780849910 0
-53E:\project\js-library\node_modules\delayed-stream\lib132989322195370272 1
+53E:\project\js-library\node_modules\delayed-stream\lib132989322195410267 1
 60E:\project\js-library\node_modules\node-addon-api\napi-inl.h132989251775903860 0
 53E:\project\js-library\node_modules\htmlnano\README.md132989251805332161 0
 53E:\project\js-library\node_modules\is-json\.npmignore132989251748139994 0
@@ -3013,6 +3015,7 @@
 73E:\project\js-library\node_modules\@parcel\codeframe\lib\codeframe.js.map132989251800310413 0
 77E:\project\js-library\node_modules\css-select\lib\pseudo-selectors\index.d.ts132989251792307833 0
 45E:\project\js-library\node_modules\acorn\dist132989251781359767 1
+81E:\project\js-library\node_modules\css-select\lib\pseudo-selectors\index.d.ts.map132989251785318088 0
 75E:\project\js-library\node_modules\css-select\lib\pseudo-selectors\index.js132989251775701419 0
 61E:\project\js-library\node_modules\@parcel\workers\src\bus.js132989251763770438 0
 83E:\project\js-library\node_modules\css-select\lib\pseudo-selectors\pseudos.d.ts.map132989251786720699 0
@@ -4212,8 +4215,6 @@
 74E:\project\js-library\node_modules\@parcel\transformer-babel\lib\config.js132989251770908636 0
 73E:\project\js-library\node_modules\@parcel\transformer-babel\lib\types.js132989251782712299 0
 58E:\project\js-library\node_modules\@parcel\source-map\dist132989251784290716 1
-109E:\project\js-library\node_modules\@parcel\package-manager\test\fixtures\has-a-not-yet-installed\package.json132989251795984976 0
-75E:\project\js-library\node_modules\@parcel\source-map\parcel_sourcemap_node132989251812057873 1
 75E:\project\js-library\node_modules\@parcel\source-map\parcel_sourcemap_wasm132989251778676703 1
 63E:\project\js-library\node_modules\@parcel\source-map\README.md132989251787090903 0
 98E:\project\js-library\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\package.json132989251785573349 0
@@ -4869,10 +4870,10 @@
 48E:\project\js-library\node_modules\.bin\svgo.ps1132989251840648538 0
 50E:\project\js-library\node_modules\.bin\terser.cmd132989251840648538 0
 50E:\project\js-library\node_modules\.bin\terser.ps1132989251840648538 0
-44E:\project\js-library\dist\index.975ef6c8.js132989319648903571 0
-45E:\project\js-library\dist\index.b07a87f3.css132989312607406806 0
-37E:\project\js-library\dist\index.html132989312607406806 0
-44E:\project\js-library\dist\logo.c493797d.png132989312610472851 0
+44E:\project\js-library\dist\index.975ef6c8.js132989329757328118 0
+45E:\project\js-library\dist\index.b07a87f3.css132989329757098120 0
+37E:\project\js-library\dist\index.html132989327599198139 0
+44E:\project\js-library\dist\logo.c493797d.png132989327598398151 0
 54E:\project\js-library\assets\actions-config-step-2.png132983270165458140 0
 45E:\project\js-library\assets\how-it-works.png132983270165458140 0
 46E:\project\js-library\assets\repo-settings.png132983270165614405 0
