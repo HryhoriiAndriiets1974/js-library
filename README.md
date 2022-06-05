@@ -3,6 +3,10 @@
 # JS-Library
 
 Підключення різних бібліотек:
+- "notiflix": "^3.2.5";
+- "basiclightbox": "^5.0.4";
+- "axios": "^0.27.2";
+- "tui-pagination": "^3.4.1";
 
 
 # Parcel template
