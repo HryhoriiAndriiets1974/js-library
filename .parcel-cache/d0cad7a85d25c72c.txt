@@ -56,14 +56,14 @@
 75E:\project\js-library\node_modules\@parcel\reporter-cli\src\bundleReport.js132989251749014293 0
 73E:\project\js-library\node_modules\notiflix\build\notiflix-confirm-aio.js132989319019749224 0
 48E:\project\js-library\node_modules\fastq\LICENSE132989251741586933 0
-26E:\project\js-library\dist132989944040208004 1
+26E:\project\js-library\dist132989961804386572 1
 31E:\project\js-library\.parcelrc132983270165458140 0
 49E:\project\js-library\node_modules\node-gyp-build132989251766366261 1
 43E:\project\js-library\node_modules\get-port132989251761327888 1
 33E:\project\js-library\.posthtmlrc132983270165458140 0
 33E:\project\js-library\.prettierrc132983270165458140 0
 67E:\project\js-library\node_modules\type-fest\source\promisable.d.ts132989251789787104 0
-34E:\project\js-library\src\index.js132989944037889071 0
+34E:\project\js-library\src\index.js132989961652010400 0
 53E:\project\js-library\node_modules\callsites\index.js132989251752255623 0
 71E:\project\js-library\node_modules\caniuse-lite\data\features\stream.js132989251837472690 0
 78E:\project\js-library\node_modules\caniuse-lite\data\features\text-emphasis.js132989251838272807 0
@@ -413,7 +413,7 @@
 67E:\project\js-library\node_modules\react-error-overlay\lib\index.js132989251768661663 0
 84E:\project\js-library\node_modules\@parcel\runtime-js\src\helpers\bundle-manifest.js132989251761977147 0
 59E:\project\js-library\node_modules\svgo\lib\svgo\jsAPI.d.ts132989251810690507 0
-49E:\project\js-library\dist\index.b07a87f3.css.map132989943554249077 0
+49E:\project\js-library\dist\index.b07a87f3.css.map132989961801878239 0
 88E:\project\js-library\node_modules\caniuse-lite\data\features\stricttransportsecurity.js132989251837559860 0
 40E:\project\js-library\node_modules\fastq132989251778104377 1
 80E:\project\js-library\node_modules\node-gyp-build-optional-packages\package.json132989251764809755 0
@@ -640,7 +640,7 @@
 61E:\project\js-library\node_modules\source-map-js\CHANGELOG.md132989251780057278 0
 75E:\project\js-library\node_modules\@parcel\graph\test\AdjacencyList.test.js132989251769243038 0
 80E:\project\js-library\node_modules\@swc\helpers\src\_async_generator_delegate.js132989251810690507 0
-48E:\project\js-library\dist\index.975ef6c8.js.map132989944040177620 0
+48E:\project\js-library\dist\index.975ef6c8.js.map132989961804351681 0
 84E:\project\js-library\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Doxyfile132989251769923850 0
 66E:\project\js-library\node_modules\@parcel\transformer-svg\LICENSE132989251741864997 0
 73E:\project\js-library\node_modules\@parcel\transformer-image\package.json132989251770723884 0
@@ -4937,8 +4937,8 @@
 48E:\project\js-library\node_modules\.bin\svgo.ps1132989251840648538 0
 50E:\project\js-library\node_modules\.bin\terser.cmd132989251840648538 0
 50E:\project\js-library\node_modules\.bin\terser.ps1132989251840648538 0
-44E:\project\js-library\dist\index.975ef6c8.js132989944040102254 0
-45E:\project\js-library\dist\index.b07a87f3.css132989943554239084 0
+44E:\project\js-library\dist\index.975ef6c8.js132989961804251642 0
+45E:\project\js-library\dist\index.b07a87f3.css132989961801636704 0
 37E:\project\js-library\dist\index.html132989934840319350 0
 44E:\project\js-library\dist\logo.c493797d.png132989934841080705 0
 54E:\project\js-library\assets\actions-config-step-2.png132983270165458140 0

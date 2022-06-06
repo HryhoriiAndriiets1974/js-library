@@ -7,7 +7,9 @@ import { Notify } from 'notiflix/build/notiflix-notify-aio';
 // import "simplelightbox/dist/simple-lightbox.min.css";
 
 import SimpleLightbox from "simplelightbox";
-import SimpleLightbox from "simplelightbox/dist/simple-lightbox.esm"
+// import SimpleLightbox from "simplelightbox/dist/simple-lightbox.esm"
+import "simplelightbox/dist/simple-lightbox.min.css";
+
 
 import Pagination from 'tui-pagination';
 import 'tui-pagination/dist/tui-pagination.min.css';
